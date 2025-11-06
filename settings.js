@@ -8,7 +8,7 @@ const settings = {
   commandMode: "public",
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
-  description: "⌬ Digital frost. Living aura ⌬⌬ Digital frost. Living aura ⌬",
+  description: "⌬ Digital frost. Living aura ⌬",
   version: "3.0.0",
   updateZipUrl: "https://github.com/mruniquehacker/Knightbot-MD/archive/refs/heads/main.zip",
 };
